@@ -6,4 +6,4 @@
 
 ## 데모 페이지
 
-deploy 실패 ㅜㅜ
+[데모](https://jus0k.github.io/movie_app/)

@@ -2,7 +2,7 @@
 
 ## 저장소 링크
 
-[mash-up-kr-web/assignments](https://github.com/aereeeee/movie-app)
+[aereeeee/movie-app](https://github.com/aereeeee/movie-app)
 
 ## 데모 페이지
 

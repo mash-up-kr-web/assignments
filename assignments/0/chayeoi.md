@@ -2,8 +2,8 @@
 
 ## 저장소 링크
 
-[mash-up-kr-web/assignments](https://github.com/mash-up-kr-web/assignments)
+[chayeoi/movie-app](https://github.com/chayeoi/movie-app)
 
 ## 데모 페이지
 
-없음
+[Movie app](https://chayeoi.github.io/movie-app)

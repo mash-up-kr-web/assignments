@@ -1,5 +1,14 @@
 # assignments
 
+## 과제 목록
+
+<details>
+<summary>7기</summary>
+
+- [0주차](./7th/0)
+- [1주차](./7th/1)
+</details>
+
 ## 과제 제출 방법
 
 1. [assignments](https://github.com/mash-up-kr-web/assignments) 원격 저장소를 자신의 로컬 저장소로 clone합니다.
